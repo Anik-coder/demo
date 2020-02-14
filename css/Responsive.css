@@ -1,0 +1,250 @@
+/*===========================
+1.0 *** XTRA SMALL DEVICE ***
+=============================*/
+@media (max-width: 1199.98px) {
+    ...
+}
+
+/*===========================
+2.0 *** XTRA SMALL DEVICE ***
+=============================*/
+@media (max-width: 991.98px) {
+    ...
+}
+
+/*===========================
+3.0 *** XTRA SMALL DEVICE ***
+=============================*/
+@media (max-width: 767.98px) {
+    ...
+}
+
+/*===========================
+4.0 *** XTRA SMALL DEVICE ***
+=============================*/
+@media (max-width: 575.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+        outline: 0;
+    }
+
+    .navbar-nav {
+        text-align: center;
+        background: #171c27;
+        padding: 10px 0;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding-bottom: 10px;
+    }
+
+    .navbar {
+        padding-top: 10px;
+    }
+
+
+
+    .banner-text h2 {
+        font-size: 32px;
+    }
+
+    .banner-text h1 {
+        font-size: 38px;
+    }
+    #banner {
+	/* background: url(../images/banner.jpg); */
+	background-color: #000;
+}
+
+    .banner-text p {
+        padding-right: 40px;
+    }
+
+    .banner-text h1 span {
+        display: block;
+    }
+
+    .banner-text a {
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    #about {
+        margin-top: 80px;
+    }
+
+    .overlay {
+        left: 15px;
+        width: 91%;
+    }
+
+    .soical-icon {
+        margin-top: 22px;
+
+    }
+
+    .details {
+        margin-left: 6px;
+    }
+
+    .my_skill {
+        margin-left: 6px;
+    }
+
+    .about-num {
+        margin-left: 6px;
+
+    }
+
+    .contact_button {
+        margin-left: 6px;
+    }
+
+    .contact_button ul li {
+        margin-top: 15px;
+    }
+
+    .contact_button ul {
+        margin-top: -12px;
+
+    }
+
+    #service {
+        margin-top: 70px;
+    }
+
+    .service-head h2::after {
+
+        left: 0;
+        right: 0;
+        width: 100%;
+    }
+
+    .service-item {
+        padding-top: 25px;
+    }
+
+    #portfolio {
+        margin-top: 40px;
+    }
+
+    .portfolio-head h2::after {
+        left: 0;
+        right: 0;
+        width: 100%;
+
+    }
+
+    .pt-2,
+    .py-2 {
+        padding-top: .0rem !important;
+    }
+
+    .portfolioFilter a {
+        margin: 10px 0;
+    }
+
+    #blog {
+        margin-top: 75px;
+    }
+
+    .blog-head h2::after {
+        left: 0;
+        right: 0;
+        width: 100%;
+    }
+ .title p {
+	font-size: 24px;
+}
+.blog-head {
+	padding-bottom: 10px;
+}
+
+#Counter {
+	margin-top: 80px;
+    padding-bottom: 50px;
+}
+ .counter-size {
+	margin-top: -43px;
+}
+.dates span {
+	font-size: 13px;
+}
+.count {
+	padding-top: 30px;
+}
+  .count_col h3 {
+	font-size: 28px;
+}  
+.count_col i {
+	font-size: 28px;
+}
+.count_col p {
+	font-size: 14px;
+}
+.clients-head h2::after {
+	left: 0;
+	right: 0;
+	width: 100%;
+}
+    
+   .clients-slider {
+	margin-top: -45px;
+} 
+    
+   .cal_speech h4 {
+	font-size: 18px;
+} 
+    
+   .cal_speech h5 {
+	font-size: 12px;
+
+} 
+.cal_speech p {
+	font-size: 14px;
+}
+  #hire {
+	margin-top: 33px;
+	
+}  
+    
+  .hire-head h2::after {
+	left: 0;
+	right: 0;
+	width: 100%;
+	
+}  
+    
+   #contact {
+	margin-top: 74px;
+} 
+    
+   .contact-head h2::after {
+	left: 0;
+	right: 0;
+	width: 100%;
+} 
+  .subHead-one {
+	margin-top: -34px;
+}  
+    
+  #fotter {
+	margin-top: 75px;
+    padding: 11px;
+}  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
